@@ -174,7 +174,7 @@ Models were evaluated using:
 | Prophet | 1248.63 | 1082.61 | 9.42% |
 | Random Forest | 679.33 | 554.05 | 4.68% |
 | XGBoost | 811.23 | 681.86 | 5.76% |
-| **LSTM** | **533.32** | **424.52** | **3.68%** |
+| **LSTM** | **587.50** | **424.52** | **3.70%** |
 
 ---
 
@@ -184,9 +184,9 @@ The **LSTM model achieved the best overall forecasting performance**.
 
 **LSTM Results:**
 
-**RMSE:** `533.32`  
+**RMSE:** `587.50`  
 **MAE:** `424.52`  
-**MAPE:** `3.68%`
+**MAPE:** `3.70%`
 
 Random Forest achieved the second-best result with a MAPE of approximately **4.68%**.
 
