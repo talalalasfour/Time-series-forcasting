@@ -192,7 +192,7 @@ Random Forest achieved the second-best result with a MAPE of approximately **4.6
 
 ### Performance Ranking by MAPE
 
-1. **LSTM** — 3.68%
+1. **LSTM** — 3.70%
 2. **Random Forest** — 4.68%
 3. **XGBoost** — 5.76%
 4. **Prophet** — 9.42%
